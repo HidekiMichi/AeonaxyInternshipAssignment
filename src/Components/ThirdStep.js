@@ -1,7 +1,7 @@
 import React from "react";
 import { SlArrowRight } from "react-icons/sl";
 import Dribbblepic from "../Assets/dribbble.png";
-import Myimage from "../Assets/junior-LbbFGkZmG0w-unsplash (1).jpg";
+import Myimage from "../Assets/polinaimage.jpg";
 function ThirdStep() {
   return (
     <>
